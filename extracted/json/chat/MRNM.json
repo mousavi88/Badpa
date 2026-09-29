@@ -1,0 +1,47 @@
+{
+    "chat": [
+        {
+            "id": "0",
+            "image": "false",
+            "chat": "گروه ایجاد شد",
+            "user": "HASANALI",
+            "time": "۱۴۰۴-۰۵-۰۸ ۱۶:۳۷"
+        },
+        {
+            "id": 1,
+            "image": "false",
+            "chat": ".",
+            "time": "۱۴۰۴-۰۵-۰۸ ۱۶:۳۷",
+            "user": "MRNM"
+        },
+        {
+            "id": 2,
+            "image": "EI8nMGcpDdmn3qxF.png",
+            "chat": "",
+            "time": "۱۴۰۴-۰۵-۰۸ ۱۶:۳۷",
+            "user": "MRNM"
+        },
+        {
+            "id": 3,
+            "image": "false",
+            "chat": ".",
+            "time": "۱۴۰۴-۰۵-۲۳ ۱۵:۰۵",
+            "user": "MRNM"
+        },
+        {
+            "id": 4,
+            "image": "sdaehUTTtCgESSBI.jpg",
+            "chat": ".",
+            "time": "۱۴۰۴-۰۶-۱۲ ۲۲:۲۲",
+            "user": "MRNM"
+        },
+        {
+            "id": 5,
+            "image": "false",
+            "chat": ".",
+            "time": "۱۴۰۴-۰۸-۲۹ ۱۸:۳۳",
+            "user": "MRNM"
+        }
+    ],
+    "time": "2025-11-20 18:33:23.108"
+}

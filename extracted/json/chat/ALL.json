@@ -1,0 +1,98 @@
+{
+    "chat": [
+        {
+            "id": "0",
+            "image": "false",
+            "chat": "گروه ایجاد شد",
+            "user": "HASANALI",
+            "time": "۱۳:۵۰"
+        },
+        {
+            "id": 3,
+            "image": "false",
+            "chat": "لنلن",
+            "time": "۱۴۰۴-۰۱-۱۰ ۱۹:۳۹",
+            "user": "HASANALI"
+        },
+        {
+            "id": 4,
+            "image": "false",
+            "chat": "salam",
+            "time": "۱۴۰۴-۰۴-۱۳ ۲۰:۱۶",
+            "user": "HASANALI"
+        },
+        {
+            "id": 5,
+            "image": "false",
+            "chat": "باشه",
+            "time": "۱۴۰۴-۰۴-۱۴ ۰۳:۰۷",
+            "user": "HASANALI"
+        },
+        {
+            "id": 6,
+            "image": "XP7BmdqNMkC8GsZ4.png",
+            "chat": "تیک آبی برای تولید کنندگان محتوا",
+            "time": "۱۴۰۴-۰۴-۱۴ ۰۳:۱۱",
+            "user": "HASANALI"
+        },
+        {
+            "id": 9,
+            "image": "false",
+            "chat": "سلام شل ممد",
+            "time": "۱۴۰۵-۰۵-۰۱ ۱۵:۱۲",
+            "user": "HADI"
+        },
+        {
+            "id": 10,
+            "image": "false",
+            "chat": "شل محمد خودتی",
+            "time": "۱۴۰۵-۰۵-۰۱ ۱۵:۱۳",
+            "user": "HASANALI"
+        },
+        {
+            "id": 12,
+            "image": "ar6tr4T1hddoPagb.jpg",
+            "chat": "",
+            "time": "۱۴۰۵-۰۵-۰۱ ۱۵:۱۴",
+            "user": "HADI"
+        },
+        {
+            "id": 13,
+            "image": "false",
+            "chat": "تیک برای شما",
+            "time": "۱۴۰۵-۰۵-۰۱ ۱۶:۳۸",
+            "user": "HASANALI"
+        },
+        {
+            "id": 14,
+            "image": "false",
+            "video": "false",
+            "file": "false",
+            "file_name": "",
+            "chat": "سلام",
+            "time": "۱۴۰۵-۰۵-۰۷ ۰۱:۲۰",
+            "user": "FATEMEHZAHRA"
+        },
+        {
+            "id": 16,
+            "image": "RdNbyu5Ee2MpEXrd.jpg",
+            "video": "false",
+            "file": "false",
+            "file_name": "",
+            "chat": "",
+            "time": "۱۴۰۵-۰۵-۱۱ ۰۱:۲۷",
+            "user": "FATEMEHZAHRA"
+        },
+        {
+            "id": 17,
+            "image": "false",
+            "video": "false",
+            "file": "false",
+            "file_name": "",
+            "chat": "@hadi",
+            "time": "۱۴۰۵-۰۵-۲۱ ۱۳:۰۳",
+            "user": "HASANALI"
+        }
+    ],
+    "time": "2026-08-12 13:03:43.207"
+}
