@@ -1,0 +1,75 @@
+{
+    "chat": [
+        {
+            "id": 0,
+            "image": "false",
+            "chat": "گروه ایجاد شد",
+            "user": "HASANALI",
+            "time": "۱۴۰۳-۱۰-۱۹ ۲۲:۲۶:۲۲"
+        },
+        {
+            "id": 1,
+            "image": "c9WXt5kWtyLK52jd.jpg",
+            "chat": "گروه ایجاد شد",
+            "user": "MOUSAVI",
+            "time": "۱۴۰۳-۱۰-۱۹ ۲۲:۲۶:۲۲"
+        },
+        {
+            "id": 2,
+            "image": "false",
+            "chat": "سلام بر شما",
+            "time": "ویرایش شده ۱۴۰۳-۱۲-۰۱ ۱۲:۳۱",
+            "user": "MOUSAVI"
+        },
+        {
+            "id": 23,
+            "image": "false",
+            "chat": "سلام بر شما",
+            "time": "ویرایش شده ۱۴۰۳-۱۲-۰۶ ۱۳:۴۲",
+            "user": "HASANALI"
+        },
+        {
+            "id": 25,
+            "image": "false",
+            "chat": "سلام",
+            "time": "۱۴۰۳-۱۲-۱۳ ۰۱:۳۲",
+            "user": "MOUSAVI"
+        },
+        {
+            "id": 27,
+            "image": "false",
+            "chat": "کچل ",
+            "time": "۱۴۰۴-۰۴-۱۴ ۱۶:۴۲",
+            "user": "HASANALI"
+        },
+        {
+            "id": 28,
+            "image": "false",
+            "chat": "ممرضا",
+            "time": "۱۴۰۴-۰۴-۱۴ ۱۷:۰۴",
+            "user": "HASANALI"
+        },
+        {
+            "id": 29,
+            "image": "false",
+            "chat": "خب",
+            "time": "۱۴۰۵-۰۱-۲۴ ۱۳:۲۶",
+            "user": "HASANALI"
+        },
+        {
+            "id": 32,
+            "image": "false",
+            "chat": "ا",
+            "time": "۱۴۰۵-۰۴-۲۵ ۱۷:۳۲",
+            "user": "HASANALI"
+        },
+        {
+            "id": 33,
+            "image": "2MfoOyN0oSsfvnE7.jpg",
+            "chat": "",
+            "time": "۱۴۰۵-۰۴-۲۵ ۲۰:۲۶",
+            "user": "HASANALI"
+        }
+    ],
+    "time": "2026-07-16 20:26:08.551"
+}

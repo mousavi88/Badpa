@@ -1,0 +1,19 @@
+{
+    "chat": [
+        {
+            "id": "0",
+            "image": "false",
+            "chat": "گروه ایجاد شد",
+            "user": "HASANALI",
+            "time": "۲۰:۰۰"
+        },
+        {
+            "id": 4,
+            "image": "false",
+            "chat": "سلام",
+            "time": "۱۴۰۳-۱۰-۱۴ ۱۹:۴۲",
+            "user": "HASANALI"
+        }
+    ],
+    "time": "2025-02-16 19:31:03.567"
+}

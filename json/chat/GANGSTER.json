@@ -1,0 +1,58 @@
+{
+    "chat": [
+        {
+            "id": "0",
+            "image": "false",
+            "chat": "گروه ایجاد شد",
+            "user": "HASANALI",
+            "time": "۱۴۰۴-۰۴-۰۲ ۱۷:۰۶"
+        },
+        {
+            "id": 2,
+            "image": "58vWws5A8YbRiJ8M.png",
+            "chat": "خب",
+            "time": "۱۴۰۵-۰۴-۲۵ ۱۷:۳۹",
+            "user": "HASANALI"
+        },
+        {
+            "id": 3,
+            "image": "B0hNvNIeQZ2t1E7n.jpg",
+            "video": "false",
+            "file": "false",
+            "chat": "اع",
+            "time": "۱۴۰۵-۰۵-۰۲ ۱۲:۴۲",
+            "user": "HASANALI"
+        },
+        {
+            "id": 4,
+            "image": "false",
+            "video": "false",
+            "file": "false",
+            "file_name": "",
+            "chat": "سلام ",
+            "time": "۱۴۰۵-۰۵-۰۲ ۱۳:۴۸",
+            "user": "HASANALI"
+        },
+        {
+            "id": 7,
+            "image": "false",
+            "video": "false",
+            "file": "false",
+            "file_name": "",
+            "chat": "b",
+            "time": "۱۴۰۵-۰۵-۰۲ ۱۴:۰۶",
+            "user": "HASANALI"
+        },
+        {
+            "id": 8,
+            "image": "false",
+            "video": "false",
+            "file": "false",
+            "file_name": "",
+            "chat": "gk",
+            "time": "۱۴۰۵-۰۵-۰۲ ۱۴:۰۶",
+            "user": "HASANALI"
+        }
+    ],
+    "time": "2026-07-24 14:06:42.054"
+}

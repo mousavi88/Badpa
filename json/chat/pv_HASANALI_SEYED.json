@@ -1,0 +1,185 @@
+{
+    "chat": [
+        {
+            "id": 1,
+            "image": "false",
+            "video": "false",
+            "file": "false",
+            "file_name": "",
+            "chat": "سلام",
+            "time": "۱۴۰۵-۰۵-۰۴ ۲۰:۳۲",
+            "user": "SEYED"
+        },
+        {
+            "id": 2,
+            "image": "Qs6cdarDw8onWAwI.gif",
+            "video": "false",
+            "file": "false",
+            "file_name": "",
+            "chat": "",
+            "time": "۱۴۰۵-۰۵-۰۴ ۲۰:۴۸",
+            "user": "HASANALI"
+        },
+        {
+            "id": 3,
+            "image": "false",
+            "video": "false",
+            "file": "false",
+            "file_name": "",
+            "chat": "g",
+            "time": "۱۴۰۵-۰۵-۰۵ ۱۷:۱۴",
+            "user": "HASANALI"
+        },
+        {
+            "id": 7,
+            "image": "false",
+            "video": "false",
+            "file": "false",
+            "file_name": "",
+            "chat": "ل",
+            "time": "۱۴۰۵-۰۵-۰۵ ۱۸:۳۶",
+            "user": "HASANALI"
+        },
+        {
+            "id": 9,
+            "image": "false",
+            "video": "false",
+            "file": "aBHVtSKxdaMgGOgX.pdf",
+            "file_name": "ریاضی هشتم تستی.pdf",
+            "chat": "",
+            "time": "۱۴۰۵-۰۵-۰۵ ۱۸:۳۷",
+            "user": "HASANALI"
+        },
+        {
+            "id": 10,
+            "image": "false",
+            "video": "false",
+            "file": "bcLYC2z1wzANCRJt.pptx",
+            "file_name": "معرفی جامع کلان_شهر قم.pptx",
+            "chat": "",
+            "time": "۱۴۰۵-۰۵-۰۵ ۱۹:۳۵",
+            "user": "HASANALI"
+        },
+        {
+            "id": 11,
+            "image": "false",
+            "video": "false",
+            "file": "6kqE5yfN6XRHT3tz.pdf",
+            "file_name": "gap_analysis (1).pdf",
+            "chat": "",
+            "time": "۱۴۰۵-۰۵-۰۵ ۱۹:۳۶",
+            "user": "HASANALI"
+        },
+        {
+            "id": 12,
+            "image": "false",
+            "video": "false",
+            "file": "3akxThOGtxpUI5UP.pdf",
+            "file_name": "ریاضی هشتم تستی.pdf",
+            "chat": "",
+            "time": "۱۴۰۵-۰۵-۰۵ ۱۹:۳۷",
+            "user": "HASANALI"
+        },
+        {
+            "id": 13,
+            "image": "false",
+            "video": "false",
+            "file": "hNLoKk99syBta2eS.pptx",
+            "file_name": "Renewable Energy Trends.pptx",
+            "chat": "",
+            "time": "۱۴۰۵-۰۵-۰۵ ۱۹:۴۳",
+            "user": "HASANALI"
+        },
+        {
+            "id": 14,
+            "image": "false",
+            "video": "false",
+            "file": "9YFtoaEwlyZ0vkeK.pdf",
+            "file_name": "ریاضی هشتم تستی.pdf",
+            "chat": "",
+            "time": "۱۴۰۵-۰۵-۰۶ ۱۴:۴۹",
+            "user": "HASANALI"
+        },
+        {
+            "id": 15,
+            "image": "false",
+            "video": "false",
+            "file": "VlhwHj5sJ6uMNG9U.pdf",
+            "file_name": "جزوه-و-نکات-فصل-اول-هندسه-دهم-ریاضی.pdf",
+            "chat": "",
+            "time": "۱۴۰۵-۰۵-۰۶ ۱۴:۵۰",
+            "user": "HASANALI"
+        },
+        {
+            "id": 16,
+            "image": "false",
+            "video": "false",
+            "file": "R0zCSwvHFUswSGkl.pptx",
+            "file_name": "درس_۱۲_مخاطب_شناسی_سواد_رسانه_ای-1.pptx",
+            "chat": "",
+            "time": "۱۴۰۵-۰۵-۰۶ ۱۴:۵۱",
+            "user": "HASANALI"
+        },
+        {
+            "id": 17,
+            "image": "false",
+            "video": "false",
+            "file": "fy5TgDdqCvR8Ys8v.pptx",
+            "file_name": "درس_۱۲_مخاطب_شناسی_سواد_رسانه_ای-1.pptx",
+            "chat": "",
+            "time": "۱۴۰۵-۰۵-۰۶ ۱۴:۵۳",
+            "user": "HASANALI"
+        },
+        {
+            "id": 18,
+            "image": "false",
+            "video": "false",
+            "file": "81VUe1ZGjWKzfvqs.pdf",
+            "file_name": "جزوه-و-نکات-فصل-اول-هندسه-دهم-ریاضی.pdf",
+            "chat": "",
+            "time": "۱۴۰۵-۰۵-۰۶ ۱۴:۵۴",
+            "user": "HASANALI"
+        },
+        {
+            "id": 19,
+            "image": "false",
+            "video": "false",
+            "file": "rd2dWMGZ96snygvl.pdf",
+            "file_name": "ریاضی هشتم تستی.pdf",
+            "chat": "",
+            "time": "۱۴۰۵-۰۵-۰۶ ۱۷:۰۴",
+            "user": "HASANALI"
+        },
+        {
+            "id": 20,
+            "image": "34szNlN85hV2lHOK.jpg",
+            "video": "false",
+            "file": "false",
+            "file_name": "",
+            "chat": "",
+            "time": "۱۴۰۵-۰۵-۰۷ ۱۶:۱۰",
+            "user": "HASANALI"
+        },
+        {
+            "id": 21,
+            "image": "CiUES3J6t9cYEeqy.jpg",
+            "video": "false",
+            "file": "false",
+            "file_name": "",
+            "chat": "",
+            "time": "۱۴۰۵-۰۵-۱۰ ۲۰:۴۵",
+            "user": "HASANALI"
+        },
+        {
+            "id": 22,
+            "image": "5fxYIZoQq0WZDPq5.jpg",
+            "video": "7Ucye9otGqRCTW7I.mp4",
+            "file": "false",
+            "file_name": "VID_20260731_134056_021.mp4",
+            "chat": "",
+            "time": "۱۴۰۵-۰۵-۲۳ ۲۳:۵۰",
+            "user": "SEYED"
+        }
+    ],
+    "time": "2026-08-14 23:50:06.788"
+}
