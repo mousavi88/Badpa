@@ -1,0 +1,34 @@
+name: Unzip File Automatically
+
+on:
+  push:
+    paths:
+      - '*.zip'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  unzip:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Find and Unzip file
+        run: |
+          ZIP_FILE=$(find . -name "*.zip" -not -path "./.git/*" | head -n 1)
+          if [ -z "$ZIP_FILE" ]; then
+            echo "❌ هیچ فایل زیپی پیدا نشد!"
+            exit 1
+          fi
+          echo "✅ فایل پیدا شد: $ZIP_FILE"
+          unzip -o "$ZIP_FILE" -d extracted/
+
+      - name: Commit extracted files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add extracted/
+          git commit -m "Auto-extract ZIP file [skip ci]" || echo "No changes to commit"
+          git push
